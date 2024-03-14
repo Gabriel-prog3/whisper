@@ -13,4 +13,4 @@ for filename in filenames:
         print(filename)
         print(result["text"],'\n\n')
     except:
-        pass
+        pass 
